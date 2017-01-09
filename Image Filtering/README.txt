@@ -7,6 +7,7 @@ Load a a collection of images(set1 and set2), compute the pixelwise average of t
 Question 6: Color sensor demosaicing
 Write a demosaic function to compute the missing color values at each pixel in IMG_1308.pgm to produce a full RGB image.
 
+Programming Language: MATLAB
 My part: HW1_Q4.m, HW1_Q5.m and HW1_Q6.m
 
 The result is shown in the writeup file.

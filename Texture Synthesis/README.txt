@@ -1,4 +1,7 @@
 CS116 Project 3: Texture Synthesis
+Stitch together image patches sampled from an input texture in order to synthesize new texture images
+
+My part: 
 
 The result is shown in the writeup file.
 

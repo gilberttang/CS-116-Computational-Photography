@@ -1,7 +1,7 @@
 CS116 Project 4: Object Detection
 Develop an object detector based on gradient features and sliding window classification
 
-My part: mygradient.m and hog.m
+My part: mygradient.m, hog.m and detect.m
 
 The result is shown in the writeup file.
 

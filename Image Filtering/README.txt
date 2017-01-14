@@ -12,4 +12,4 @@ My part: HW1_Q4.m, HW1_Q5.m and HW1_Q6.m
 
 The result is shown in the writeup file.
 
-Reference link: http://www.ics.uci.edu/~fowlkes/class/cs116/hwk1/index.html
+Reference: https://github.com/gilberttang/CS-116-Computational-Photography/blob/master/Image%20Filtering/hw1_reference.pdf
